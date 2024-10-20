@@ -1,0 +1,12 @@
+{
+    "contacts": [
+        {
+            "contact": "1234567890",
+            "message": "Hello, this is a test message"
+        },
+        {
+            "contact": "09876543211",
+            "message": "Follow me on instagram - @ayush.dev_"
+        }
+    ]
+}
